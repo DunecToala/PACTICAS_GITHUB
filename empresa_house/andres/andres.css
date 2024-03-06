@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+    cursor: hand;
+}
+
+h1{
+    color: lime;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+header{
+    text-align: center;
+    font-size: 80px;
+    background-color: yellow;
+
+}
+
+h2{
+    text-align: right;
+    color: orange;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
